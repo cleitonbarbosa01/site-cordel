@@ -80,13 +80,13 @@ a {
 a:hover {
     text-decoration: underline;
 }
-audio {
-    display: block;
-    margin: auto;
-
-}
-#a {
+nav p {
     text-align: center;
     font-size: smaller;
     font-family: Arial, Helvetica, sans-serif;
+}
+nav audio {
+    display: block;
+    margin: auto;
+    padding-bottom: 10px;
 }
