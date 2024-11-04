@@ -47,7 +47,7 @@ article.conteudo2 {
     background-image: url(imagens/background001.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-size: 100vw 100vh;
+    background-size: auto;
     background-position: 100%;
     background-color: rgb(68, 65, 65);
     color: white;
@@ -65,7 +65,7 @@ article.conteudo2 > p {
     background-image: url(imagens/background002.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: 100vw 100vh;
+    background-size: auto;
 }
 footer {
     text-align: center;
